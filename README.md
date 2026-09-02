@@ -138,6 +138,6 @@ jwt:
 
 ---
 
-## Notes to self
+## Note
 
 - `rabbit` folder exists but nothing's wired up yet, maybe later
