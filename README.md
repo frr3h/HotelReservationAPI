@@ -133,7 +133,10 @@ server:
 
 jwt:
   secret: your_own_secret_key_min_32_chars
-  expiration: 8640000
+  expiration: 86400000
+```
+
+---
 
 ## Notes to self
 
